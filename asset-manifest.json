@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CoinTossGame-ReactJS/static/css/main.f227aea8.chunk.css",
+    "main.js": "/CoinTossGame-ReactJS/static/js/main.beb918ca.chunk.js",
+    "main.js.map": "/CoinTossGame-ReactJS/static/js/main.beb918ca.chunk.js.map",
+    "runtime-main.js": "/CoinTossGame-ReactJS/static/js/runtime-main.67da353d.js",
+    "runtime-main.js.map": "/CoinTossGame-ReactJS/static/js/runtime-main.67da353d.js.map",
+    "static/js/2.df3ffa6d.chunk.js": "/CoinTossGame-ReactJS/static/js/2.df3ffa6d.chunk.js",
+    "static/js/2.df3ffa6d.chunk.js.map": "/CoinTossGame-ReactJS/static/js/2.df3ffa6d.chunk.js.map",
+    "index.html": "/CoinTossGame-ReactJS/index.html",
+    "static/css/main.f227aea8.chunk.css.map": "/CoinTossGame-ReactJS/static/css/main.f227aea8.chunk.css.map",
+    "static/js/2.df3ffa6d.chunk.js.LICENSE.txt": "/CoinTossGame-ReactJS/static/js/2.df3ffa6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67da353d.js",
+    "static/js/2.df3ffa6d.chunk.js",
+    "static/css/main.f227aea8.chunk.css",
+    "static/js/main.beb918ca.chunk.js"
+  ]
+}
