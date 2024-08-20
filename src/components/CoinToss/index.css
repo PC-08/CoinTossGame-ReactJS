@@ -1,0 +1,60 @@
+/* Write your CSS here */
+
+.bg {
+  font-family: 'roboto';
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+}
+
+.card {
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.head {
+  font-size: 36px;
+  color: #a35200;
+}
+
+.para {
+  color: #334155;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.coin {
+  width: 200px;
+  padding: 10px;
+}
+
+.coin-c {
+  text-align: center;
+}
+
+.btn {
+  align-self: center;
+  padding: 8px;
+  font-size: 14px;
+  border: 0;
+  border-radius: 10px;
+  background-color: #f9d423;
+  color: #a35200;
+  font-weight: bold;
+}
+
+.result-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  color: #475569;
+  font-weight: 500;
+}
